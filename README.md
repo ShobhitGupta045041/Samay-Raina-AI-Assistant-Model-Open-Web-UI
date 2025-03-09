@@ -1,6 +1,6 @@
 # Samay-Raina-AI-Assistant-Model
 
-![image](https://github.com/user-attachments/assets/04c7cccd-408d-492b-9f0a-f127f177a6a2)
+![image](https://github.com/user-attachments/assets/be3488db-b2b1-4a6c-94ac-4a8b8d86a3b4)
 
 ##  Table of Contents<br>
 - [About the Project](#-about-the-project)<br>
