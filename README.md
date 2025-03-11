@@ -24,7 +24,7 @@ Meet Samay Raina AI, your funniest, wittiest, and most brutally honest virtual f
 - **Context Length:** `4096`
 
 
-### 🚀 **Try It Out:** Explore the model on OpenWebUI: [Samay Raina - AI Assistant]([link daal yaha openwebui ka](https://openwebui.com/m/shobhit2002/samay-raina))
+### 🚀 **Try It Out:** Explore the model on OpenWebUI: ([Samay Raina - AI Assistant](https://openwebui.com/m/shobhit2002/samay-raina))
 
 ---
 
