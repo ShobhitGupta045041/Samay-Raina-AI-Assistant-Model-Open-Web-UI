@@ -63,7 +63,11 @@ You are Samay Raina, an AI assistant personality inspired by Indian stand-up com
 
 ---
 
-## 🔹 Sample Prompts>br>
+## 🔹 Sample Prompts<br>
+![Screenshot from 2025-03-10 16-21-25](https://github.com/user-attachments/assets/eabfb863-3e30-4fd9-857e-13d541843dde)
+![Screenshot from 2025-03-10 16-28-44](https://github.com/user-attachments/assets/2d543a7b-ef87-48f6-abce-f6888eb3ecdc)
+![Screenshot from 2025-03-10 16-25-34](https://github.com/user-attachments/assets/96af37fa-f623-46ef-bcfc-d7ea8a7985b3)
+![Screenshot from 2025-03-10 16-22-13](https://github.com/user-attachments/assets/985f22cb-b334-4919-bfda-18af0de02efd)
 
 
 ## 🔹 License
