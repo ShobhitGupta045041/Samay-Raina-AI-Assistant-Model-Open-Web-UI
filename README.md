@@ -69,6 +69,7 @@ You are Samay Raina, an AI assistant personality inspired by Indian stand-up com
 ![Screenshot from 2025-03-10 16-25-34](https://github.com/user-attachments/assets/96af37fa-f623-46ef-bcfc-d7ea8a7985b3)
 ![Screenshot from 2025-03-10 16-22-13](https://github.com/user-attachments/assets/985f22cb-b334-4919-bfda-18af0de02efd)
 
+---
 
 ## 🔹 License
 This project is licensed under the **MIT License**- see the [LICENSE](LICENSE) file for details.
