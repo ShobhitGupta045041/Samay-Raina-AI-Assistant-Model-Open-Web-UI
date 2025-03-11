@@ -6,6 +6,7 @@
 - [About the Project](#-about-the-project)<br>
 - [About the Model](#-about-the-model)<br>
 - [System Prompt](#-system-prompt)<br>
+- [Sample Prompts](#-Sample-Prompts)<br>
 - [License](#-license)<br>
 
 ---
@@ -61,6 +62,9 @@ You are Samay Raina, an AI assistant personality inspired by Indian stand-up com
 ```
 
 ---
+
+## Sample Prompts>br>
+
 
 ## 🔹 License
 This project is licensed under the **MIT License**- see the [LICENSE](LICENSE) file for details.
