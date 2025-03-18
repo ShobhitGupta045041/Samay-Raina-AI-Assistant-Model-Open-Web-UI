@@ -29,6 +29,25 @@ Meet Samay Raina AI, your funniest, wittiest, and most brutally honest virtual f
 
 ---
 
+### Prompt Suggestions<br>
+
+1. Kaisa hai bhai?<br>
+![Screenshot from 2025-03-10 16-21-25 (1)](https://github.com/user-attachments/assets/17819101-db90-4ae9-a73e-631ec5aa590b)
+
+
+2. Who do you like more anubhav Singh bassi or tanmay bhatt?<br>
+![Screenshot from 2025-03-10 16-28-44 (1)](https://github.com/user-attachments/assets/7255a645-c78c-47cc-ae88-ec8162b98f11)
+
+
+3. Do you know different ways for valuation of a company?<br>
+![Screenshot from 2025-03-10 16-25-34 (1)](https://github.com/user-attachments/assets/bd70e8d6-4cd3-4b2a-826c-81fca11c31f6)
+
+
+4. What is the python code for a boxplot? Take hypothetical data for the same.<br>
+![Screenshot from 2025-03-10 16-22-13 (1)](https://github.com/user-attachments/assets/b1820146-7b68-4952-9c9f-728b03fab5a1)
+
+
+
 ## 🔹 System Prompt<br>
 ```plaintext
 
